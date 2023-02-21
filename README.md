@@ -1,4 +1,4 @@
-#                                  <p align="center">      Hi I'm Mikael, a back-end developer 👋🏻 </p>
+#                                  <p align="center">      Hi I'm Mikael, a Full-stack developer 👋🏻 </p>
 
 - 🔭 I’m currently studying  Full-stack  
 - 🌱 I’m currently learning Node.js and React
