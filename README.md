@@ -1,7 +1,7 @@
 #                                  <p align="center">      Hi I'm Mikael, a back-end developer 👋🏻 </p>
 
-- 🔭 I’m currently studying  Back-end  
-- 🌱 I’m currently learning Node.js 
+- 🔭 I’m currently studying  Full-stack  
+- 🌱 I’m currently learning Node.js and React
 - 💬 Ask me about ApiRest 
 - 📫 How to reach me: mikaelkawam.dev@gmail.com  
 
