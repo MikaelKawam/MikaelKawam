@@ -18,10 +18,10 @@
 
 
 <a href="https://github.com/MikaelKawam/github-readme-stats">
-                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikaelKawam&theme=synthwave&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&title_color=2f90ed" />
+                     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MikaelKawam&theme=synthwave&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&title_color=2f90ed" />
 </a>
 <a href="https://github.com/MikaelKawam/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelKawam&layout=compact&theme=synthwave&title_color=2f90ed" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikaelKawam&layout=compact&theme=synthwave&title_color=2f90ed" />
 </a>
 
 <div style="display: inline_block"><br>
