@@ -1,21 +1,8 @@
 #                                  <p align="center">      Hi I'm Mikael, a Full-stack developer 👋🏻 </p>
 
 - 🔭 I’m currently studying  Full-stack  
-- 🌱 I’m currently learning Node.js and React 
+- 🌱 I’m currently learning C# and React 
 - 📫 How to reach me: mikaelkawam.dev@gmail.com  
-
-
- # <p align="center"> Are you Looking for a portfolio? Or maybe my resume? 
-<div align="center">  
-<a href="https://mikaelkawam.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-7D4698?style=for-the-badge&logoColor=white" target="_blank">
- <a href="https://drive.google.com/file/d/175JCu0gFwp8-rornXVb6gUEdoMLS_INS/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/RESUME-7D4698?style=for-the-badge&logoColor=white" target="_blank"></a> 
-</a> <h1>
-</div>
-
-
-
-
-
 
 <a href="https://github.com/MikaelKawam/github-readme-stats">
                      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MikaelKawam&theme=synthwave&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&title_color=2f90ed" />
@@ -25,14 +12,12 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
    
 </div>
 
